@@ -1,0 +1,47 @@
+ <div class="page-wrapper clientdetpge">
+    <div class="page-body">
+      <div class="row">
+            <div class="col-md-12 titlebar">
+                <h6 class="title">Shane Regan : <span>Project 2021</span></h6>
+                <div class="statusbar">
+                    <label>Status</label>
+                    <select class="form-control">
+                        <option  *ngFor="let status of statusOptions" [value]="status" >
+                            {{status}}
+                        </option>
+                    </select>
+                </div>
+
+                <a class="adbtn btn orange invoicebtn" href="javascript:void(0)" data-toggle="modal" data-target="#invoicemodel"><i class="icofont icofont-paper" ></i>invoice</a>
+            </div>
+        </div>
+    </div>
+</div> 
+
+<div class="col-sm-12">    
+    <div class="whitebgshd">
+        <div class="row">    
+            <div class="col-sm-12 tabmodlft">
+                <ul class="nav nav-tabs" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link" routerLinkActive="active" [routerLinkActiveOptions]="{exact:
+                            true}" data-toggle="tab" routerLink="/clients/files" role="tab"><i class="fa fa-file-o"></i>Files</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" routerLinkActive="active" [routerLinkActiveOptions]="{exact:
+                            true}" data-toggle="tab" routerLink="/clients/timer" role="tab"><i class="fa fa-clock-o"></i>Timer</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" routerLinkActive="active" [routerLinkActiveOptions]="{exact:
+                            true}" data-toggle="tab" routerLink="/clients/tasks" role="tab"><i class="fa fa-tasks"></i>Tasks</a>
+                    </li>
+                </ul><!-- Tab panes --> 
+                <div class="tab-content">
+                    <router-outlet></router-outlet>
+                  
+                </div>
+            </div>
+            
+        </div>    
+    </div>
+</div> 

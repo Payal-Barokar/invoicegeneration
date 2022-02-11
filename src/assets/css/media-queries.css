@@ -1,0 +1,190 @@
+@media only screen and (min-width:1300px) and (max-width: 1335px)
+{
+	.tabmodlft .tab-content .tab-pane .innerboxsec .lnkbt{padding: 8px 5px;}
+	.tabmodlft .tab-content .tab-pane .innerboxsec .lnkbt i{margin-right: 5px;}
+	.tabmodlft .tab-content .tab-pane .innerboxsec .lnkbt{font-size: 12px;} 
+}
+@media only screen and (min-width:1200px) and (max-width: 1299px)
+{
+	.timerdvsec .timerctnbox{padding: 10px;}
+	.timerdvsec a.btn{font-size: 13px;padding: 8px 10px;}
+	.timerdvsec .clientctn{min-height: 216px;}
+		.tabmodlft .tab-content .tab-pane .innerboxsec .lnkbt{padding: 8px 5px;}
+	.tabmodlft .tab-content .tab-pane .innerboxsec .lnkbt i{margin-right: 5px;}
+	.tabmodlft .tab-content .tab-pane .innerboxsec .lnkbt{font-size: 12px;}
+	.customupbtn{padding: 15px;}
+	.customupbtn a{font-size: 16px;line-height: 22px;}
+	.sidebar .singlelink li a{font-size: 14px;}
+}
+@media only screen and (max-width: 1299px) {
+	.tabmodlft .tab-content .tab-pane .innerboxsec .lnkbt{font-size: 10px;}
+	.tabmodlft .tab-content .tab-pane .innerboxsec .flexctn{padding-bottom: 20px;}
+	.tabmodlft .tab-content .tab-pane .innerboxsec .flexctn .icnfle i{font-size:40px;}
+	.customupbtn{padding: 12px;}
+	.customupbtn a{font-size: 14px;line-height: 22px;}
+	.customupbtn i{margin-bottom: 10px;font-size: 50px;}
+	.sidebar .singlelink li a{font-size: 14px;}
+	.sidebar .graybgbox{padding: 10px;}
+	.sidebar .graybgbox.selectteam select{padding:7px 10px;font-size: 12px;}
+	.sidebar .singlelink li a{font-size: 12px;padding-left: 12px;}
+	.sidebar .singlelink li a:before{font-size: 9px;}
+	.tabmodlft .col-sm-9 .scrollctn .col-sm-4{-ms-flex: 0 0 50%; flex: 0 0 50%;max-width:50%;}
+
+}
+@media only screen and (min-width:992px) and (max-width: 1024px)
+{
+	.tabmodlft .col-sm-9 .scrollctn .col-sm-4{-ms-flex: 0 0 33.33%; flex: 0 0 33.33%;max-width:33.33%;}
+}
+@media only screen and (min-width:768px) and (max-width: 1199px)
+{
+	.timerdvsec .timerctnbox{padding: 10px;}
+	.timerdvsec a.btn{font-size: 10px;padding:4px 5px;}
+	.timerdvsec .clientctn{min-height: 216px;}
+	.timerdvsec .clientctn h6{font-size: 13px;}
+	.timerdvsec .clientctn span{font-size: 13px;}
+	.timerdvsec .clientctn p{font-size: 13px;}
+	.timerdvsec a.btn i{margin-right: 5px;}
+	.timerdvsec a.timeradbtn{padding: 8px 12px;font-size: 14px;}
+	.timerdvsec a.timeradbtn i{margin-right: 5px;}
+	.summerypgesec .summerybox .summeryctn{padding: 15px;}
+	.summerypgesec .summerybox .summerytle{padding: 10px 15px;}
+	.summerypgesec .summerybox .summeryctn ul li {font-size: 13px;}
+}
+@media only screen and (max-width: 1024px) {
+	.header-navbar .navbar-wrapper .navbar-logo{background: none !important;}
+	.header-navbar .navbar-wrapper .navbar-logo .mobile-menu{top:25px;}
+	.header-navbar .navbar-wrapper .navbar-logo .mobile-options{top: 25px;}
+	.popctsbox .modal-dialog{min-width: inherit;width: 100%;    margin: 0 auto; padding: 0 10px;}
+	.loginpage .logbox{width:90%;}
+	.navbar-container .nav-right{padding: 0;background: #fff;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right{margin-top: 0;height: auto;}
+	.pcoded-navbar{margin-top: -10px;}
+	.header-navbar .navbar-wrapper .navbar-logo{width: 40% !important;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right{margin-top: 12px;}
+	.header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification .notification-user{margin-top: 0;}
+	.header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification{max-height: 250px;/*overflow-y: auto;*/}
+
+}
+@media only screen and (max-width: 767px) {
+	.timerdvsec .col-sm-4{    -ms-flex: 0 0 50%;flex: 0 0 50%;max-width:50%;}
+	.summerypgesec .summerybox .summeryctn ul li{font-size: 12px;}
+	.summerypgesec .summerybox .summeryctn{padding: 15px 10px;}
+	.summerypgesec .summerybox .summerytle{padding: 10px;}
+	.timerdvsec .timerctnbox{padding: 10px;}
+	.timerdvsec a.btn{font-size: 12px;padding:4px 10px;}
+	.timerdvsec .clientctn p{font-size: 12px;}
+	.timerdvsec .clientctn span{font-size: 12px;}
+	.timerdvsec .clientctn h6{font-size: 12px;}
+	.summerypgesec .summerybox .summeryctn ul li i{margin-right: 10px;}
+	.summerypgesec .summerybox .summeryctn ul li b{    line-height: 14px;display: inline-block; width: 90%;vertical-align: top;}
+	.timerdvsec a.btn i{margin-right: 5px;}
+	.timerdvsec a.timeradbtn{padding: 8px 12px;font-size: 14px;}
+	.timerdvsec a.timeradbtn i{margin-right: 5px;}
+	.summerypgesec .summerybox{margin-bottom: 20px;}
+	.header-navbar .navbar-wrapper .navbar-logo a img{margin:3px auto 0;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li.user-profile{padding-top: 9px;}
+	.show-notification.profile-notification li a{padding: 10px 20px !important;}
+	.show-notification.profile-notification li a i{font-size: 14px !important;}
+	.header-navbar .navbar-wrapper .navbar-logo{    width: 40% !important; padding: 5px;height: auto;}
+	.header-navbar .navbar-wrapper .navbar-container{    width: 60%;    padding: 0 5px;float:right;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-left{padding-left: 0;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li{padding: 0 5px;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right{margin-top:10px;}
+	.header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification .notification-user{margin-top: 0;}
+	.header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification{max-height: 250px;/*overflow-y: auto;*/}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li > a{font-size: 12px;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right .user-profile img{width: 30px;margin-right: 5px;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right a{padding:0 0.3rem;}
+	.navbar-container .nav-right{background: inherit;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li.user-profile{line-height: 2.5;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li.user-profile a span{display: none;}
+	.whitebgshd .tabmodlft .tab-content .col-sm-9{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width:100%;}
+	.whitebgshd .tab-content .graycolorbg{margin-bottom: 30px;}
+	.whitebgshd .tabmodlft .tab-content .col-sm-3{-ms-flex: 0 0 60%;flex: 0 0 60%;max-width:60%;margin: 0 auto;}
+
+}
+@media only screen and (min-width:575px) and (max-width:991px)
+{
+	.popctsbox .box1, .popctsbox .box2, .popctsbox .box3{padding: 8px !important;margin: 10px 2px !important;}
+	.brktme .col-sm-3{-ms-flex: 0 0 45%;flex: 0 0 45%;max-width:45%;}
+	.popctsbox button{font-size: 12px;padding: 4px 10px;}
+}
+@media only screen and (max-width: 639px) {
+	.timerdvsec .col-sm-4{ -ms-flex: 0 0 100%;flex: 0 0 100%;max-width:100%;margin-bottom:20px;}
+	.timerdvsec .clientctn{min-height: inherit;}
+	.timerdvsec{margin-top: 20px;}
+	.summerypgesec .summerybox .summerytle{font-size: 15px;}
+	.pcoded-navbar{margin-top: -10px;}
+	.navbar-container .nav-right{padding: 0;background: #fff;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right{width:auto;margin-top: 0;height: auto;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li.user-profile a{padding-left: 0;display:block;    padding-right: 0;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right .user-profile img{width:24px;    margin-right: 5px;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li span b{font-size: 10px;display: none;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li.user-profile > a > span{max-width: 120px;overflow: hidden;text-overflow: ellipsis;font-size: 10px;display: none;}
+	.navbar h5{font-size: 11px;margin-top:20px;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right a{padding: 0 0.3rem;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li > a{font-size: 12px;}
+	.popctsbox .box1, .popctsbox .box2, .popctsbox .box3{margin: 10px 5px;padding: 10px 12px;}
+	.popctsbox .graybg{padding: 15px 5px;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right .user-profile i{    margin-left: 0;font-size: 8px;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li{padding: 0 2px;}
+	.popctsbox .timerbtn{margin: 0 auto 15px;}
+	.loginpage .logbox{width: 100%;}
+	.loginpage .logbox .frmfooter{padding: 15px 10px;font-size: 14px;}
+	.loginpage{padding: 20px 0;}
+	.loginpage .logbox h2{font-size: 24px;}
+	.loginpage .logbox .innerpadd{padding: 20px 15px;}
+	.loginpage .logbox .innerpadd .form-check-label{font-size: 13px;}
+	.loginpage .logbox .checkbox a{font-size: 13px;float: right;}
+	.loginpage .logbox .innerpadd .checkbox{display: block;}
+	.clientblock tbody td p{width: 250px;}
+	.header-navbar .navbar-wrapper .navbar-logo{    width: 40% !important; padding: 5px;height: auto;}
+	.header-navbar .navbar-wrapper .navbar-container{    width: 60%;    padding: 0 5px;float:right;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-left{width: 40%;padding-left: 0;height: auto;}
+	.pcoded .pcoded-header{height:auto;min-height: inherit;}
+	.header-navbar .navbar-wrapper .navbar-logo .mobile-menu{top: 15px;left: 10px;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li a i{font-size: 14px;}
+	.header-navbar .navbar-wrapper .navbar-logo .mobile-menu{font-size: 14px;}
+	.header-navbar .navbar-wrapper .navbar-container .nav-right li a i.fa-comment-o{font-size: 12px;}
+	.header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification{left: auto;right: 0; top: 40px; min-width: 250px;    max-height: 250px;/*overflow-y: auto;*/}
+	.header-navbar .navbar-wrapper .navbar-container .header-notification.active:before{right: 10px; border-width: 8px; bottom: -29px; }
+	.header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification:before,
+    .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification:before { border-width: 8px; top: -7px; right: 10px; }
+	.header-navbar .navbar-wrapper .navbar-container .badge{right: 0;}
+	.header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification .notification-user{margin-top: 0;}
+	.pcoded-main-container{margin-top: 62px !important;}
+	.loginpage{height: auto;}
+	.whitebgshd .tabmodlft .tab-content .col-sm-3{-ms-flex: 0 0 60%;flex: 0 0 60%;max-width:60%;margin: 0 auto;}
+	.titlebar .statusbar{margin-bottom: 10px;}
+}
+@media only screen and (max-width: 575px) {
+.tabmodlft .col-sm-9 .scrollctn .col-sm-4{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width:100%;}
+.titlebar .statusbar{float: left;margin-bottom: 10px;}
+}
+@media only screen and (max-width: 479px) {
+	.whitebgshd .tabmodlft .tab-content .col-sm-3{-ms-flex: 0 0 90%;flex: 0 0 90%;max-width:90%;margin: 0 auto;}
+	.tabmodlft .col-sm-9 .scrollctn .col-sm-4{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width:100%;}
+	.whitebgshd .tab-content .graycolorbg{padding: 10px;}
+	.tabmodlft ul li.nav-item{margin-right: 5px;margin-bottom:10px;}
+	.tabmodlft ul li.nav-item a.nav-link{padding: 7px 14px;}
+	.tabmodlft ul li.nav-item a.nav-link i{margin-right: 5px;}
+	.whitebgshd{padding: 15px 10px;}
+	.tabmodlft ul li.nav-item a.nav-link{font-size: 12px;}
+	.tabmodlft ul{margin-bottom: 5px;}
+	.tabmodlft ul li.nav-item{margin-right:4px;}
+	.clientblock tbody td{font-size: 13px;}
+	a.taskbtn{margin-right: 0;}
+	.titlebar .statusbar label{font-size: 13px;margin-right: 5px;}
+	.titlebar .btn.invoicebtn{float: left;margin-left: 0;}
+	.titlebar .statusbar{margin-bottom:10px;}
+}
+
+
+
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
